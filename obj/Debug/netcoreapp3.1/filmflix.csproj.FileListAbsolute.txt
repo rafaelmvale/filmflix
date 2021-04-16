@@ -1,0 +1,13 @@
+C:\Users\rmarquev\documents\projetos\filmflix\bin\Debug\netcoreapp3.1\filmflix.exe
+C:\Users\rmarquev\documents\projetos\filmflix\bin\Debug\netcoreapp3.1\filmflix.deps.json
+C:\Users\rmarquev\documents\projetos\filmflix\bin\Debug\netcoreapp3.1\filmflix.runtimeconfig.json
+C:\Users\rmarquev\documents\projetos\filmflix\bin\Debug\netcoreapp3.1\filmflix.runtimeconfig.dev.json
+C:\Users\rmarquev\documents\projetos\filmflix\bin\Debug\netcoreapp3.1\filmflix.dll
+C:\Users\rmarquev\documents\projetos\filmflix\bin\Debug\netcoreapp3.1\filmflix.pdb
+C:\Users\rmarquev\documents\projetos\filmflix\obj\Debug\netcoreapp3.1\filmflix.csprojAssemblyReference.cache
+C:\Users\rmarquev\documents\projetos\filmflix\obj\Debug\netcoreapp3.1\filmflix.AssemblyInfoInputs.cache
+C:\Users\rmarquev\documents\projetos\filmflix\obj\Debug\netcoreapp3.1\filmflix.AssemblyInfo.cs
+C:\Users\rmarquev\documents\projetos\filmflix\obj\Debug\netcoreapp3.1\filmflix.csproj.CoreCompileInputs.cache
+C:\Users\rmarquev\documents\projetos\filmflix\obj\Debug\netcoreapp3.1\filmflix.dll
+C:\Users\rmarquev\documents\projetos\filmflix\obj\Debug\netcoreapp3.1\filmflix.pdb
+C:\Users\rmarquev\documents\projetos\filmflix\obj\Debug\netcoreapp3.1\filmflix.genruntimeconfig.cache
